@@ -4,7 +4,7 @@ selected_auth_type = "oauth-personal"
 
 [mcp_servers.fusion]
 command = "node"
-args = ["D:\\fusion_mcp_server\\fusion_mcp_server.js"]
+args = ["C:\\claude_fusion_mcp_server\\fusion_mcp_server.js"]
 
-[projects.'D\\fusion_mcp_server']
+[projects.'C:\\claude_fusion_mcp_server']
 trust_level = "trusted"
