@@ -1,0 +1,10 @@
+﻿model = "gpt-5-codex"
+theme = "Default"
+selected_auth_type = "oauth-personal"
+
+[mcp_servers.fusion]
+command = "node"
+args = ["D:\\fusion_mcp_server\\fusion_mcp_server.js"]
+
+[projects.'D\\fusion_mcp_server']
+trust_level = "trusted"
