@@ -59,7 +59,7 @@ MCPサーバーは、Fusion 内で動作する[対応するPythonアドイン fu
 
 ## APIリファレンス / 利用可能なツール
 
-Gemini CLIは以下のツールを呼び出すことでFusion を操作します。
+OpenAI Codex CLIは以下のツールを呼び出すことでFusion を操作します。
 
 ### 形状作成ツール
 -   **`create_cube`**: 立方体を作成
