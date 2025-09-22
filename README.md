@@ -44,10 +44,9 @@
 ### Step 3: Gemini CLIでの使用
 セットアップが完了すれば、OpenAI Codex CLIチャットでFusion を操作できます。
 
-<img width="1115" height="628" alt="20250825142703" src="https://github.com/user-attachments/assets/ff1662b3-5457-4ee6-b872-c10a58ef913f" />
+<img width="548" height="447" alt="スクリーンショット 2025-09-22 232634" src="https://github.com/user-attachments/assets/1f30d86b-2655-455e-8bce-95b752b0dae4" />
 
-**Ctl + t ショートカットキーで起動できているか確認して下さい。**
-<img width="1102" height="988" alt="20250825142810" src="https://github.com/user-attachments/assets/e671b974-66e4-4077-9c79-61ec36655d8e" />
+**/mcp コマンドで起動できているか確認して下さい。**
 
 **使用例:**
 -   `@Fusion360 幅50、奥行き30、高さ20の箱を作って`
